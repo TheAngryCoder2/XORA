@@ -11,9 +11,11 @@ const Hero = () => {
                     <div className="caption small-2 uppercase text-p3">
                         Video Editing
                     </div>
-                    <h1 className="mb-6 h1 text-p4">
-
+                    <h1 className="mb-6 h1 text-p4 uppercase max-lg:mb-7 max-lg:h2
+                    max-md:mb-4 max-md:text-5xl max-md:leading-12">
+                        Amazingly Simple
                     </h1>
+                    <p></p>
                 </div>
 
             </div>
