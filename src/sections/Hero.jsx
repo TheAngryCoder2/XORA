@@ -6,7 +6,15 @@ const Hero = () => {
     max-md:pb-32
     border-2 border-amber-200">
         <Element name="hero">
-            <div className="">
+            <div className="container">
+                <div className="relative z-2 max-w-512 max-lg:max-w-388">
+                    <div className="caption small-2 uppercase text-p3">
+                        Video Editing
+                    </div>
+                    <h1 className="mb-6 h1 text-p4">
+
+                    </h1>
+                </div>
 
             </div>
         </Element>
